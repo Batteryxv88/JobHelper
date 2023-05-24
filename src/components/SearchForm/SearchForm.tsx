@@ -18,9 +18,12 @@ const SearchForm = observer (() => {
     setErrNum('')
   };
 
+
+
   return (
     <div className={styles.search}>
-      <h2 className={styles.header}>{}</h2>
+      
+      <h2 className={styles.header}>{errors.modelState[0].model}</h2>
       <form className={styles.form} onSubmit={submitHandler}>
         <input
           className={styles.input}

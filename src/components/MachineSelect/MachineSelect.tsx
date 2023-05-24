@@ -11,6 +11,15 @@ import { Link } from 'react-router-dom';
 
 
 const MachineSelect = observer(() => {
+
+// const machineSelectHandler = (machineArr: any, machine: any) => {
+//   console.log(machineArr + "sccsscsc")
+// errors.selectMachine(machineArr)
+// errors.modelState = machine
+// }
+
+
+
   return (
     <>
       <div className={styles.select}>

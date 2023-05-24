@@ -1,4 +1,8 @@
-export const C3080 = [
+import { Machine } from "../types/types"
+
+export const C3080: Machine[] = [
+    {"model": "C3080"},
+
     {
         "code": "C-0001",
         "class": " \nMain body: Communication abnormality \n",

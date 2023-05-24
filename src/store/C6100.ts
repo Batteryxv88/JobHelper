@@ -1,4 +1,5 @@
 export const C6100 = [
+    {"model": "C6100"},
     {
         "code": "C-0002",
         "class": " \nMain body: Communication error \n",

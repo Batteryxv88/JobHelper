@@ -1,7 +1,5 @@
 export const C6000 = [
-    {
-        "code": ""
-    },
+    {"model": "C6000"},
     {
         "code": "C-0001",
         "class": " \n      Main body: Communication error \n",
