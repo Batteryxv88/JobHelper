@@ -1,3 +1,5 @@
+
+
 export const textBrake = (text: string) => {
     const regExp = /Code|Classification|Cause|Measures to take when alert occurs|Estimated abnormal parts|Correction|Note|Solution|Faulty part isolation DIPSW|Control while detached/;
 
@@ -14,5 +16,7 @@ export const textBrake = (text: string) => {
             corr: item[6], note: item[7], solution: item[8], isolate: item[9], control: item[10]}
     })
 
-    console.log(eee)
+    return eee
 }
+
+

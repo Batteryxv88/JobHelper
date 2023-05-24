@@ -9,6 +9,9 @@ import { C4080 } from '../../store/C4080';
 import { C14000 } from '../../store/C14000';
 import { Link } from 'react-router-dom';
 
+import { textBrake } from '../../helpers/textBrake';
+import { B1250S } from '../../store/sourceFiles/B1250S';
+
 
 const MachineSelect = observer(() => {
 
@@ -18,53 +21,29 @@ const MachineSelect = observer(() => {
 // errors.modelState = machine
 // }
 
+///////////////////////////////////////////////////////////////////
 
+
+
+////////////////////////////////////////////////////////////////////
 
   return (
     <>
       <div className={styles.select}>
-        <Link
-          to="/select/C14000"
-          onClick={() => errors.selectMachine(C14000)}
-          className={styles.button}
-        >
-          C14000
-        </Link>
-        <Link
-          to="/select/C7100"
-          onClick={() => errors.selectMachine(C7100)}
-          className={styles.button}
-        >
-          C7100
-        </Link>
-        <Link
-          to="/select/C6100"
-          onClick={() => errors.selectMachine(C6100)}
-          className={styles.button}
-        >
-          C6100
-        </Link>
-        <Link
-          to="/select/C4080"
-          onClick={() => errors.selectMachine(C4080)}
-          className={styles.button}
-        >
-          C4080
-        </Link>
-        <Link
-          to="/select/C3080"
-          onClick={() => errors.selectMachine(C3080)}
-          className={styles.button}
-        >
-          C3080
-        </Link>
-        <Link
-          to="/select/C6000"
-          onClick={() => errors.selectMachine(C6000)}
-          className={styles.button}
-        >
-          C6000
-        </Link>
+      <Link
+        to="/select/color"
+        
+        className={styles.button}
+      >
+        Color
+      </Link>
+      <Link
+        to="/select/black"
+        
+        className={styles.button}
+      >
+        Black
+      </Link>
       </div>
     </>
   );

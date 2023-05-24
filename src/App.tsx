@@ -4,6 +4,9 @@ import MachineSelect from './components/MachineSelect/MachineSelect';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import SearchForm from './components/SearchForm/SearchForm';
 import Header from './components/Header/Header';
+import Color from './components/MachineSelect/Color/Color';
+import BaW from './components/MachineSelect/BaW/BaW';
+
 
 function App() {
   
@@ -15,7 +18,9 @@ function App() {
           <Routes >
             <Route path="/" element={<Home />} />
             <Route path="select" element={<MachineSelect />} />
-            <Route path=":search/:machine" element={<SearchForm />} />
+            <Route path="select/color" element={<Color />} />
+            <Route path="select/black" element={<BaW />} />
+            <Route path=":color/:search/:machine" element={<SearchForm />} />
           </Routes>
         </div>
       </div>
