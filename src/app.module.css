@@ -1,5 +1,11 @@
-.wrapper {
+.app {
+  margin: 0 auto;
+  padding: 0;
   max-width: 1280px;
+}
+
+.wrapper {
+  width: 100%;
   min-height: 100vh;
   margin: 0 auto;
   display: flex;
@@ -13,6 +19,7 @@
   height: 50px;
   background-color: #22222E;
   border-bottom: 3px solid #393A5A;
+  margin: 0 auto;
 }
 
 @media screen and (max-width: 560px) {
