@@ -9040,7 +9040,7 @@ export const C4080 = [
         "isolate": " \n\n2.21.18  C-3801* \n\n"
     },
     {
-        "code": "C-3801*",
+        "code": "C-3801",
         "class": " \nMain body: Fusing belt central section low temperature abnormality \n",
         "cause": " \nDuring the fusing idling or printing, the fusing temperature sensor/1 (TH1) detects that the temperature is less than 100°C continuously for a \nspecified period of time. \nMeasures to take when an alert occurs \nThe main body and the option stop immediately. \n",
         "measure": " \n  •  Fusing unit \n  •  Printer control board (PRCB) \n  •  AC drive board (ACDB) \n  •  Fusing heater lamp/1 (L1) \n  •  Fusing temperature sensor/1 (TH1) \n  •  Thermostat/1 (TS1) \n",
@@ -9051,7 +9051,7 @@ export const C4080 = [
         "isolate": " \nControl during the detachment \n\n2.21.19  C-3802* \n\n"
     },
     {
-        "code": "C-3802*",
+        "code": "C-3802",
         "class": " \nMain body: Fusing belt edge low temperature abnormality \n",
         "cause": " \nDuring the fusing idling or printing, the fusing temperature sensor/2 (TH2) detects that the temperature is less than 50℃ continuously for a \nspecified period of time. \nMeasures to take when an alert occurs \nThe main body and the option stop immediately. \n",
         "measure": " \n  •  Fusing unit \n  •  Printer control board (PRCB) \n\n                                                                        K-407 \n﻿AccurioPress C4080/C4070, AccurioPrint C4065/ \nC4065P                                                                                     K TROUBLESHOOTING > 2. MALFUNCTION CODE \n\n  •  AC drive board (ACDB) \n  •  Fusing heater lamp/2 (L2) \n  •  Fusing heater lamp/3 (L3) \n  •  Fusing temperature sensor/2 (TH2) \n  •  Thermostat/2 (TS2) \n",
@@ -9062,7 +9062,7 @@ export const C4080 = [
         "isolate": " \nControl during the detachment \n\n2.21.20  C-3803* \n\n"
     },
     {
-        "code": "C-3803*",
+        "code": "C-3803",
         "class": " \nMain body: Fusing roller/Lw central section low temperature abnormality \n",
         "cause": " \nDuring the fusing idling or printing, the fusing temperature sensor/5 (TH5) detects that the temperature is less than 50℃ continuously for a \nspecified period of time. However, the detection is not performed in the monochrome energy-save mode. \nMeasures to take when an alert occurs \nThe main body and the option stop immediately. \n",
         "measure": " \n  •  Fusing unit \n  •  Printer control board (PRCB) \n  •  AC drive board (ACDB) \n  •  Fusing heater lamp/4 (L4) \n  •  Fusing temperature sensor/5 (TH5) \n  •  Thermostat/3 (TS3) \n",
@@ -9073,7 +9073,7 @@ export const C4080 = [
         "isolate": " \nControl during the detachment \n\n2.21.21  C-3807* \n\n"
     },
     {
-        "code": "C-3807*",
+        "code": "C-3807",
         "class": " \nMain body: Fusing belt edge low temperature abnormality \n",
         "cause": " \nDuring the fusing idling or printing, the fusing temperature sensor/3 (TH3) detects that the temperature is less than 50 °C continuously for a \nspecified period of time. \nMeasures to take when an alert occurs \nThe main body and the option stop immediately. \n",
         "measure": " \n  •  Fusing unit \n  •  Printer control board (PRCB) \n  •  AC drive board (ACDB) \n  •  Fusing heater lamp/2 (L2) \n  •  Fusing heater lamp/3 (L3) \n  •  Fusing temperature sensor/3 (TH3) \n  •  Thermostat/2 (TS2) \n",
@@ -9084,7 +9084,7 @@ export const C4080 = [
         "isolate": " \nControl during the detachment \n\n                                                                        K-409 \n﻿AccurioPress C4080/C4070, AccurioPrint C4065/ \nC4065P                                                                                     K TROUBLESHOOTING > 2. MALFUNCTION CODE \n\n2.21.22  C-3901* \n\n"
     },
     {
-        "code": "C-3901*",
+        "code": "C-3901",
         "class": " \nMain body: Fusing belt central section high temperature abnormality (hardware detection) \n",
         "cause": " \nThe fusing temperature sensor/1 (TH1) detects an error signal continuously for a specified period of time. \nMeasures to take when an alert occurs \nThe main body and the option stop immediately. \n",
         "measure": " \n  •  Fusing unit \n  •  Printer control board (PRCB) \n  •  Fusing temperature sensor/1 (TH1) \n",
@@ -9095,7 +9095,7 @@ export const C4080 = [
         "isolate": " \nControl during the detachment \n\n2.21.23  C-3902* \n\n"
     },
     {
-        "code": "C-3902*",
+        "code": "C-3902",
         "class": " \nMain body: Fusing belt central section low temperature abnormality (hardware detection) \n",
         "cause": " \nThe fusing temperature sensor/1 (TH1) detects an error signal continuously for a specified period of time. \nMeasures to take when an alert occurs \nThe main body and the option stop immediately. \n",
         "measure": " \n  •  Fusing unit \n  •  Printer control board (PRCB) \n  •  Fusing heater lamp/1 (L1) \n  •  Fusing temperature sensor/1 (TH1) \n  •  Thermostat/1 (TS1) \n",
@@ -9106,7 +9106,7 @@ export const C4080 = [
         "isolate": " \nControl during the detachment \n\n2.21.24  C-3903* \n\n"
     },
     {
-        "code": "C-3903*",
+        "code": "C-3903",
         "class": " \nMain body: Fusing belt edge high temperature abnormality (hardware detection) \n",
         "cause": " \nThe fusing temperature sensor/2 (TH2) detects an error signal continuously for a specified period of time. \nMeasures to take when an alert occurs \nThe main body and the option stop immediately. \n",
         "measure": " \n  •  Fusing unit \n  •  Printer control board (PRCB) \n  •  DC power supply/1 (DCPS1) \n  •  Fusing temperature sensor/2 (TH2) \n",
@@ -9117,7 +9117,7 @@ export const C4080 = [
         "isolate": " \nControl during the detachment \n\n2.21.25  C-3904* \n\n"
     },
     {
-        "code": "C-3904*",
+        "code": "C-3904",
         "class": " \nMain body: Fusing belt edge low temperature abnormality (hardware detection) \n",
         "cause": " \nThe fusing temperature sensor/2 (TH2) detects an error signal continuously for a specified period of time. \nMeasures to take when an alert occurs \nThe main body and the option stop immediately. \n",
         "measure": " \n  •  Fusing unit \n\n                                                                      K-411 \n﻿AccurioPress C4080/C4070, AccurioPrint C4065/ \nC4065P                                                                                      K TROUBLESHOOTING > 2. MALFUNCTION CODE \n\n  •  Printer control board (PRCB) \n  •  Fusing heater lamp/2 (L2) \n  •  Fusing temperature sensor/2 (TH2) \n  •  Thermostat/2 (TS2) \n",
@@ -9128,7 +9128,7 @@ export const C4080 = [
         "isolate": " \nControl during the detachment \n\n2.21.26  C-3905* \n\n"
     },
     {
-        "code": "C-3905*",
+        "code": "C-3905",
         "class": " \nMain body: Fusing belt edge high temperature abnormality (hardware detection) \n",
         "cause": " \nThe fusing temperature sensor/3 (TH3) detects an error signal continuously for a specified period of time. \nMeasures to take when an alert occurs \nThe main body and the option stop immediately. \n",
         "measure": " \n  •  Fusing unit \n  •  Printer control board (PRCB) \n  •  Fusing temperature sensor/3 (TH3) \n",
@@ -9139,7 +9139,7 @@ export const C4080 = [
         "isolate": " \nControl during the detachment \n\n2.21.27  C-3906* \n\n"
     },
     {
-        "code": "C-3906*",
+        "code": "C-3906",
         "class": " \nMain body: Fusing belt edge low temperature abnormality (hardware detection) \n",
         "cause": " \nThe fusing temperature sensor/3 (TH3) detects an error signal continuously for a specified period of time. \nMeasures to take when an alert occurs \nThe main body and the option stop immediately. \n",
         "measure": " \n  •  Fusing unit \n  •  Printer control board (PRCB) \n  •  Fusing heater lamp/2 (L2) \n  •  Fusing heater lamp/3 (L3) \n  •  Fusing temperature sensor/3 (TH3) \n  •  Thermostat/2 (TS2) \n",
@@ -9150,7 +9150,7 @@ export const C4080 = [
         "isolate": " \nControl during the detachment \n\n2.21.28  C-3907* \n\n"
     },
     {
-        "code": "C-3907*",
+        "code": "C-3907",
         "class": " \nMain body: Fusing roller/Lw central section high temperature abnormality (hardware detection) \n",
         "cause": " \nThe fusing temperature sensor/5 (TH5) detects an error signal continuously for a specified period of time. \nMeasures to take when an alert occurs \nThe main body and the option stop immediately. \n",
         "measure": " \n  •  Fusing unit \n  •  Printer control board (PRCB) \n  •  Fusing temperature sensor/5 (TH5) \n",
@@ -9161,7 +9161,7 @@ export const C4080 = [
         "isolate": " \nControl during the detachment \n\n2.21.29  C-3908* \n\n"
     },
     {
-        "code": "C-3908*",
+        "code": "C-3908",
         "class": " \nMain body: Fusing roller/Lw central section low temperature abnormality (hardware detection) \n",
         "cause": " \nThe fusing temperature sensor/5 (TH5) detects an error signal continuously for a specified period of time. \nMeasures to take when an alert occurs \nThe main body and the option stop immediately. \n",
         "measure": " \n  •  Fusing unit \n  •  Printer control board (PRCB) \n  •  Fusing heater lamp/4 (L4) \n  •  Fusing temperature sensor/5 (TH5) \n  •  Thermostat/3 (TS3) \n",
@@ -9172,7 +9172,7 @@ export const C4080 = [
         "isolate": " \nControl during the detachment \n\n2.21.30  C-3909* \n\n"
     },
     {
-        "code": "C-3909*",
+        "code": "C-3909",
         "class": " \nMain body: Fusing roller/Lw edge high temperature abnormality (hardware detection) \n",
         "cause": " \nThe fusing temperature sensor/4 (TH4) detects an error signal continuously for a specified period of time. \nMeasures to take when an alert occurs \nThe main body and the option stop immediately. \n",
         "measure": " \n  •  Fusing unit \n  •  Printer control board (PRCB) \n  •  Fusing temperature sensor/4 (TH4) \n",
@@ -9183,7 +9183,7 @@ export const C4080 = [
         "isolate": " \nControl during the detachment \n\n2.21.31  C-3910* \n\n"
     },
     {
-        "code": "C-3910*",
+        "code": "C-3910",
         "class": " \nMain body: Fusing roller/Lw edge low temperature abnormality (hardware detection) \n",
         "cause": " \nThe fusing temperature sensor/4 (TH4) detects an error signal continuously for a specified period of time. \nMeasures to take when an alert occurs \nThe main body and the option stop immediately. \n",
         "measure": " \n  •  Fusing unit \n  •  Printer control board (PRCB) \n  •  Fusing heater lamp/4 (L4) \n  •  Fusing temperature sensor/4 (TH4) \n  •  Thermostat/3 (TS3) \n",
@@ -9194,7 +9194,7 @@ export const C4080 = [
         "isolate": " \nControl during the detachment \n\n2.21.32  C-3911* \n\n"
     },
     {
-        "code": "C-3911*",
+        "code": "C-3911",
         "class": " \nMain body: Fusing temperature sensor/1 abnormality \n",
         "cause": " \nWithin a specified period of time after the warm-up starts, the temperature that the fusing temperature sensor/1 (TH1) detects does not reach \nthe prescribed value. \nIn the other case, it has not satisfied the Ready condition of TH1 within a specified period of time after the warm-up starts. \nMeasures to take when an alert occurs \nThe main body and the option stop immediately. \n",
         "measure": " \n  •  Fusing unit \n  •  Printer control board (PRCB) \n  •  AC drive board (ACDB) \n  •  Fusing heater lamp/1 (L1) \n  •  Fusing temperature sensor/1 (TH1) \n  •  Thermostat/1 (TS1) \n",
@@ -9205,7 +9205,7 @@ export const C4080 = [
         "isolate": " \nControl during the detachment \n\n2.21.33  C-3912* \n\n"
     },
     {
-        "code": "C-3912*",
+        "code": "C-3912",
         "class": " \nMain body: Fusing temperature sensor/4 abnormality \n",
         "cause": " \nWithin a specified period of time after the warm-up starts, the temperature that the fusing temperature sensor/4 (TH4) detects does not reach 40 \n°C However, the detection is not performed in the monochrome energy-save mode. \nIn the other case, it has not satisfied the Ready condition of TH4 within a specified period of time after the warm-up starts. \nMeasures to take when an alert occurs \nThe main body and the option stop immediately. \n",
         "measure": " \n  •  Fusing unit \n  •  Printer control board (PRCB) \n  •  AC drive board (ACDB) \n  •  Fusing heater lamp/4 (L4) \n  •  Fusing temperature sensor/4 (TH4) \n  •  Thermostat/3 (TS3) \n",
@@ -9216,7 +9216,7 @@ export const C4080 = [
         "isolate": " \nControl during the detachment \n\n2.21.34  C-3913* \n\n"
     },
     {
-        "code": "C-3913*",
+        "code": "C-3913",
         "class": " \nMain body: Fusing unit installation abnormality \n\n                                                                       K-417 \n﻿AccurioPress C4080/C4070, AccurioPrint C4065/ \nC4065P                                                                                         K TROUBLESHOOTING > 2. MALFUNCTION CODE \n\n",
         "cause": " \nWhen C-3107 (fusing unit installation abnormality (warning for users)) occurred 3 times in a row. \n",
         "measure": " \n  ▪  When a fusing unit installation abnormality occurs, C-3107 occurs first. When C-3107 occurs, the user must reinstall the ADU \n     mount according to the solution that is displayed on the operation panel. When the user reinstalls the ADU mount, the fusing unit \n     installation abnormality may be resolved. \n  ▪  When C-3107 is not resolved even after the user reinstall the ADU mount twice (= C-3107 occurs 3 times in a row), C-3913 occurs. \n     When C-3913 occurs, the user must contact the service manager, who performs the C-3913 solution. \nMeasures to take when an alert occurs \nThe main body and the option stop immediately. \n",
@@ -9227,7 +9227,7 @@ export const C4080 = [
         "isolate": " \nControl during the detachment \n\n2.21.35  C-3917* \n\n"
     },
     {
-        "code": "C-3917*",
+        "code": "C-3917",
         "class": " \nMain body: Fusing temperature sensor/2 abnormality \n",
         "cause": " \nWithin a specified period of time after the warm-up starts, the temperature that the fusing temperature sensor/2 (TH2) detects does not reach \nthe prescribed value. \nIn the other case, it has not satisfied the Ready condition of TH2 within a specified period of time after the warm-up starts. \nMeasures to take when an alert occurs \nThe main body and the option stop immediately. \n",
         "measure": " \n  •  Fusing unit \n  •  Printer control board (PRCB) \n  •  AC drive board (ACDB) \n  •  Fusing heater lamp/2 (L2) \n  •  Fusing heater lamp/3 (L3) \n  •  Fusing temperature sensor/2 (TH2) \n  •  Thermostat/2 (TS2) \n",

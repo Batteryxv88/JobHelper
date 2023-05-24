@@ -23,13 +23,10 @@ class Errors {
   selectMachine (arr:any) {
     this.modelState = arr;
   }
-  
-  
 
   findError(errNum: string) {
-    
       this.errorState = this.modelState.filter((item: any) => {
-        return item.code === `C-${errNum}`;
+        return item.code === `C-${errNum}`|| item.code === `C-${errNum}*`;
       });
   }
 }
