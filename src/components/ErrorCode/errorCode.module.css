@@ -1,0 +1,25 @@
+.error_code {
+  width: 97%;
+  color: #fff;
+  margin-top: 45px;
+  height: auto;
+}
+
+.title {
+  margin: 5px 0 5px 0;
+  font-size: 18px;
+}
+
+.des {
+  margin: 5px 0 5px 0;
+  font-size: 16px;
+}
+
+.sep {
+  border: 1px solid red;
+}
+
+.not_found {
+  color: #fff;
+  margin-top: 45px;
+}

@@ -1,0 +1,29 @@
+.app {
+  
+}
+
+.wrapper {
+  max-width: 1280px;
+  min-height: 100vh;
+  //width: 3000px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+}
+
+
+
+.header {
+  width: 100%;
+  height: 50px;
+  background-color: #22222E;
+  border-bottom: 3px solid #393A5A;
+}
+
+@media screen and (max-width: 560px) {
+  .wrapper {
+    padding: 20px 10px 20px 10px;
+  }
+}
