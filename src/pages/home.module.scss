@@ -4,10 +4,10 @@
     justify-content: center;
     text-align: center;
     text-decoration: none;
-    width: 230px;
-    height: 50px;
+    width: 200px;
+    height: 45px;
     border: 2px solid #E9E9E9;
-    background-color: transparent;
+    background-color: rgb(47, 50, 64);
     border-radius: 10px;
     color: #E9E9E9;
     font-size: 18px;
@@ -16,4 +16,5 @@
   
   .button:last-of-type {
       margin-top: 20px;
+      padding: 0;
   }
