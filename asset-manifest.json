@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/JobHelper/static/css/main.87c84219.css",
-    "main.js": "/JobHelper/static/js/main.fdba4c3b.js",
+    "main.css": "/JobHelper/static/css/main.fe524dec.css",
+    "main.js": "/JobHelper/static/js/main.ef519dec.js",
     "index.html": "/JobHelper/index.html",
-    "main.87c84219.css.map": "/JobHelper/static/css/main.87c84219.css.map",
-    "main.fdba4c3b.js.map": "/JobHelper/static/js/main.fdba4c3b.js.map"
+    "main.fe524dec.css.map": "/JobHelper/static/css/main.fe524dec.css.map",
+    "main.ef519dec.js.map": "/JobHelper/static/js/main.ef519dec.js.map"
   },
   "entrypoints": [
-    "static/css/main.87c84219.css",
-    "static/js/main.fdba4c3b.js"
+    "static/css/main.fe524dec.css",
+    "static/js/main.ef519dec.js"
   ]
 }
