@@ -4,17 +4,17 @@
   justify-content: center;
   text-align: center;
   text-decoration: none;
-  width: 200px;
-  height: 45px;
+  width: 170px;
+  height: 40px;
   border: 2px solid #E9E9E9;
   background-color: rgb(47, 50, 64);
   border-radius: 10px;
   color: #E9E9E9;
   font-size: 18px;
-  margin-top: 80px;
+  margin-top: 14px;
 }
 
 .button:last-of-type {
-  margin-top: 20px;
+  margin-top: 14px;
   padding: 0;
 }

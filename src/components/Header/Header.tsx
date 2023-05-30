@@ -7,9 +7,11 @@ const stateClearHandler = () => {
   errors.errorState = null
 }
 
-  return <div className={styles.header}>
-    <Link to="/" className={styles.home} onClick={stateClearHandler} ></Link>
-  </div>;
+  return <header className={styles.header}>
+    {/* <Link to="/" className={styles.home} onClick={stateClearHandler} ></Link> */}
+    <div className={styles.logo}></div>
+    <h2 className={styles.h2}>TECH SUPPORT TEAM</h2>
+  </header>;
 };
 
 export default Header;

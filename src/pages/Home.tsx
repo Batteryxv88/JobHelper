@@ -7,9 +7,9 @@ const Home = () => {
       <Link to={'/select'} className={styles.button}>
         Select Machine
       </Link>
-      <button className={styles.button}>
+      <Link to={'/'} className={styles.button}>
         FaQ
-      </button>
+      </Link>
     </>
   );
 };

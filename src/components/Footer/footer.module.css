@@ -1,6 +1,4 @@
 .footer {
-  align-self: flex-end;
-  align-self: flex-end;
   position: sticky;
   bottom: 0;
   display: flex;
@@ -15,6 +13,7 @@
   box-shadow: 0px 5px 50px 30px rgba(198, 198, 213, 0.2), 2px 11px 7px -5px rgba(18, 18, 22, 0.28) inset;
   border-top-right-radius: 200px;
   border-top-left-radius: 200px;
+  flex-grow: 0;
 }
 
 .button {
@@ -41,10 +40,13 @@
 
 @media screen and (max-width: 560px) {
   .footer {
+    height: 40px;
     border-top-left-radius: 0;
     border-top-right-radius: 0;
   }
   .button {
-    margin: 12px 30px 13px 30px;
+    width: 22px;
+    height: 22px;
+    margin: 9px 30px 9px 30px;
   }
 }

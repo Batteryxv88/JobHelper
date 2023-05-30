@@ -12,8 +12,8 @@ function App() {
   return (
     <BrowserRouter basename="/JobHelper">
       <div className={styles.app}>
+        <Header />
         <div className={styles.body}>
-          <Header />
           <div className={styles.wrapper}>
             <Routes>
               <Route path="/" element={<Home />} />
@@ -26,7 +26,6 @@ function App() {
         </div>
         <Footer />
       </div>
-      
     </BrowserRouter>
   );
 }
