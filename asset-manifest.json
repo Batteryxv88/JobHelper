@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/JobHelper/static/css/main.d6ff293c.css",
+    "main.css": "/JobHelper/static/css/main.62082919.css",
     "main.js": "/JobHelper/static/js/main.075e0723.js",
     "index.html": "/JobHelper/index.html",
-    "main.d6ff293c.css.map": "/JobHelper/static/css/main.d6ff293c.css.map",
+    "main.62082919.css.map": "/JobHelper/static/css/main.62082919.css.map",
     "main.075e0723.js.map": "/JobHelper/static/js/main.075e0723.js.map"
   },
   "entrypoints": [
-    "static/css/main.d6ff293c.css",
+    "static/css/main.62082919.css",
     "static/js/main.075e0723.js"
   ]
 }
